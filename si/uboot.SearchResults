@@ -1,0 +1,5 @@
+---- CONFIG_ENABLE_MMU Matches (4 in 0 files) ----
+Smdk6410.h (include\configs):#define CONFIG_ENABLE_MMU
+Smdk6410.h (include\configs):#ifdef CONFIG_ENABLE_MMU
+Smdk6410.h (include\configs):#if !defined(CONFIG_ENABLE_MMU)
+Smdk6410.h (include\configs):#if defined(CONFIG_USB_OHCI_NEW) && defined(CONFIG_ENABLE_MMU)

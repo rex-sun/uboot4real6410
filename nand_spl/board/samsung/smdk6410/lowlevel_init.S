@@ -1,0 +1,1 @@
+/home/rex/real6410/proj.git/uboot/board/samsung/smdk6410/lowlevel_init.S
